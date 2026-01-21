@@ -1,0 +1,7 @@
+{
+  "name": "Pikmin Mushroom Army",
+  "description": "A collaborative matchmaking platform for Pikmin Bloom players to organize and join mushroom battles efficiently.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
