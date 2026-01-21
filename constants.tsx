@@ -1,5 +1,5 @@
 
-import { MushroomAttribute } from './types';
+import { MushroomAttribute } from 'types';
 
 export const ATTRIBUTE_COLORS: Record<MushroomAttribute, string> = {
   [MushroomAttribute.ELECTRIC]: 'bg-yellow-400 text-yellow-900',
